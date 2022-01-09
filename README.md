@@ -1,1 +1,1 @@
-# YOLO from scratch
+# YOLO from scratch v1
